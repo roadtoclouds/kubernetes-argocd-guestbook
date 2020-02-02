@@ -4,7 +4,7 @@ metadata:
   labels:
     app: redis
   name: redis
-  namespace: vote1
+  namespace: vote
 spec:
   replicas: 1
   selector:
